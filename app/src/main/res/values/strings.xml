@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Water Tracker</string>
+
+    <!-- settings-->
+    <string name="action_settings">Cài đặt</string>
+    <string name="activity_settings_title">Cài đặt</string>
+
+
+    <!-- fragments preferences title & summary  water calculation-->
+    <string name="pref_training_title">Tập luyện</string>
+    <string name="pref_weight_title">Cân nặng (kg)</string>
+    <string name="pref_water_need_title">Lượn nước cần trong ngày</string>
+    <string name="pref_gender_title">Giới tính</string>
+
+    <string name="pref_notif_enable_title">Thông báo</string>
+    <string name="pref_notif_sound_title">Âm thanh</string>
+    <string name="pref_notif_interval_time_title">Khoảng thời gian</string>
+    <string name="pref_sounds_title">Âm thanh</string>
+
+
+    <string name="wake_up_review">2 ly nước sau khi thức dậy - giúp kích hoạt các cơ quan nội tạng</string>
+    <string name="sleep_review">1 ly nước trước khi đi ngủ - tránh đột quỵ hoặc đau tim</string>
+    <string name="shower_review">1 ly nước trước khi tắm - giúp hạ huyết áp</string>
+    <string name="meal_review">1 ly nước trước bữa ăn 30 phút - giúp tiêu hóa</string>
+    <string name="lose_weight">Nước làm tăng tốc độ trao đổi chất. Để giảm cân - uống nhiều nước</string>
+    <string name="lack_water">Não và mạch máu hoạt động kém khi thiếu nước. Để ngăn chặn điều này xảy ra, hãy duy trì cân bằng nước bình thường</string>
+    <string name="title_activity_history_chart">historyChartActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="todaydrank">Lượng nước bạn đã uống trong ngày</string>
+    <string name="uong">Uống nước</string>
+
+
+
+</resources>

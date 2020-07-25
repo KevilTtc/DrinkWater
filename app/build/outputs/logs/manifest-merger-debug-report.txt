@@ -1,0 +1,280 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:2:1-69:12
+MERGED from [:alobar-preference] D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\alobar-preference\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\2a4ad0bb9e8b13d8c89dcbac935a15a8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\36816d5a1207f1ae65bdf6e3f36c7326\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\69a857d77fe23ecd0733355ac5010bc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\a6fcdd2b7aa921ce885cc70d176e790f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.lzyzsd:circleprogress:1.1.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\a2d04aebd1b8465545c0244c160a7a68\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\96732270d3a933f2d866b8f4557fcc8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\da0416631ae4bf43b167db5464176994\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\43e72d411887bb8b9bbde812e5029ad9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\bf594f40b5bb46d5c2d638003f254642\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\81d85e8b754b1acc4c2184614c4612b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\d2e333f56659c401a4b10f14b78692f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\ddd7302c66eb3ff648a2132dbece0ffd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\7658429fb1904aafa1f5c2bee3bc91c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\6738f689cfbfa9554a0869b5f89a92ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\258c77cb5bb472e2c732b1d64e815c8a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\e2949be94c67397b06fd2bce19a81527\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\36199a208739c9137ea00cb9b8b241a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\69ac41f1d1ce90e455b4e56dc068d16f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\cb73a03749774fa4b641316701ee5872\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\77540fb3e29345aa90cb5fa30f0cb5ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\e5c2bd4b955d87fa2e94634b968f1dca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\43d4101fed0f27a0ef2cf34b79ce44f7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\49aa828988be722738317c435005d4fc\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\6bd2eca9110656ef9549f68b14be8add\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\1e87c01d1ea08c98e71d68549dc93560\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\79e27b5990d1e312236451c53c602d05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\fc737a6f17d391d6730216219fb58dcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\2af8f651c0e49243440857886f89fd63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\2adda65fea58746692da04c27376233f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\148400fe0e8013822d41f2c41073e211\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\70a71db269239b4e6bcc537540f72545\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\cab2c4f6c53ecb9d2632c8e569f7c44e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\38fe1189cb7f668b6384e902f51f80d5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\25595b697ed2e628334c3cd114026be3\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:2:1-69:12
+INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:2:1-69:12
+		INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:6:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:10:5-67:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\2a4ad0bb9e8b13d8c89dcbac935a15a8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\2a4ad0bb9e8b13d8c89dcbac935a15a8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\43d4101fed0f27a0ef2cf34b79ce44f7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\43d4101fed0f27a0ef2cf34b79ce44f7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\49aa828988be722738317c435005d4fc\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\49aa828988be722738317c435005d4fc\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\43d4101fed0f27a0ef2cf34b79ce44f7\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:15:9-40
+activity#a2dv606.androidproject.MainWindow.MainActivity
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:16:19-58
+activity#a2dv606.androidproject.WaterDrankHistory.DateLogActivity
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:17:9-71
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:17:19-68
+activity#a2dv606.androidproject.WaterDrankHistory.TimeLogActivity
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:18:9-71
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:18:19-68
+activity#a2dv606.androidproject.Settings.SettingsActivity
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:19:9-63
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:19:19-60
+activity#a2dv606.androidproject.OutlinesFragments.OutlineActivity
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:20:19-68
+intent-filter#action:name:android.intent.action.SENDTO+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:21:13-27:29
+action#android.intent.action.SENDTO
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:22:17-71
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:22:25-68
+category#android.intent.category.DEFAULT
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:24:27-73
+data
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:26:17-55
+	android:mimeType
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:26:23-52
+receiver#a2dv606.androidproject.Notifications.NotificationReciever
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:30:9-72
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:30:19-69
+receiver#a2dv606.androidproject.BroadcastReceivers.DateLogBroadcastReceiver
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:31:9-81
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:31:19-78
+receiver#a2dv606.androidproject.BroadcastReceivers.StopNotificationBroadcastReceiver
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:32:9-90
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:32:19-87
+activity#a2dv606.androidproject.Chart.ChartActivity
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:34:9-36:48
+	android:background
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:35:13-48
+activity#a2dv606.androidproject.SplashScreen
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:37:9-43:20
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:37:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:41:27-74
+receiver#a2dv606.androidproject.BroadcastReceivers.BootBroadcastReceiver
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:45:9-51:20
+	android:enabled
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:47:13-35
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:46:13-69
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:48:13-50:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:49:17-79
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:49:25-76
+receiver#a2dv606.androidproject.Widget.WidgetProvider
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:52:9-61:20
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:52:19-56
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:54:17-56:33
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:55:21-88
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:55:29-85
+meta-data#android.appwidget.provider
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:58:13-60:55
+	android:resource
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:60:17-52
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:59:17-58
+service#a2dv606.androidproject.Widget.UpdateWidgetService
+ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:63:9-66:47
+	android:enabled
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:65:13-35
+	android:exported
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:66:13-36
+	android:name
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml:64:13-55
+uses-sdk
+INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+MERGED from [:alobar-preference] D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\alobar-preference\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:alobar-preference] D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\alobar-preference\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\2a4ad0bb9e8b13d8c89dcbac935a15a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\2a4ad0bb9e8b13d8c89dcbac935a15a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\36816d5a1207f1ae65bdf6e3f36c7326\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\36816d5a1207f1ae65bdf6e3f36c7326\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\69a857d77fe23ecd0733355ac5010bc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\69a857d77fe23ecd0733355ac5010bc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\a6fcdd2b7aa921ce885cc70d176e790f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\a6fcdd2b7aa921ce885cc70d176e790f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.lzyzsd:circleprogress:1.1.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\a2d04aebd1b8465545c0244c160a7a68\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lzyzsd:circleprogress:1.1.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\a2d04aebd1b8465545c0244c160a7a68\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\96732270d3a933f2d866b8f4557fcc8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\96732270d3a933f2d866b8f4557fcc8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\da0416631ae4bf43b167db5464176994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\da0416631ae4bf43b167db5464176994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\43e72d411887bb8b9bbde812e5029ad9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\43e72d411887bb8b9bbde812e5029ad9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\bf594f40b5bb46d5c2d638003f254642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\bf594f40b5bb46d5c2d638003f254642\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\81d85e8b754b1acc4c2184614c4612b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\81d85e8b754b1acc4c2184614c4612b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\d2e333f56659c401a4b10f14b78692f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\d2e333f56659c401a4b10f14b78692f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\ddd7302c66eb3ff648a2132dbece0ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\ddd7302c66eb3ff648a2132dbece0ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\7658429fb1904aafa1f5c2bee3bc91c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\7658429fb1904aafa1f5c2bee3bc91c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\6738f689cfbfa9554a0869b5f89a92ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\6738f689cfbfa9554a0869b5f89a92ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\258c77cb5bb472e2c732b1d64e815c8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\258c77cb5bb472e2c732b1d64e815c8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\e2949be94c67397b06fd2bce19a81527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\e2949be94c67397b06fd2bce19a81527\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\36199a208739c9137ea00cb9b8b241a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\36199a208739c9137ea00cb9b8b241a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\69ac41f1d1ce90e455b4e56dc068d16f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\69ac41f1d1ce90e455b4e56dc068d16f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\cb73a03749774fa4b641316701ee5872\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\cb73a03749774fa4b641316701ee5872\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\77540fb3e29345aa90cb5fa30f0cb5ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\77540fb3e29345aa90cb5fa30f0cb5ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\e5c2bd4b955d87fa2e94634b968f1dca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\e5c2bd4b955d87fa2e94634b968f1dca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\43d4101fed0f27a0ef2cf34b79ce44f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\43d4101fed0f27a0ef2cf34b79ce44f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\49aa828988be722738317c435005d4fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\49aa828988be722738317c435005d4fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\6bd2eca9110656ef9549f68b14be8add\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\6bd2eca9110656ef9549f68b14be8add\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\1e87c01d1ea08c98e71d68549dc93560\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\1e87c01d1ea08c98e71d68549dc93560\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\79e27b5990d1e312236451c53c602d05\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\79e27b5990d1e312236451c53c602d05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\fc737a6f17d391d6730216219fb58dcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\fc737a6f17d391d6730216219fb58dcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\2af8f651c0e49243440857886f89fd63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\2af8f651c0e49243440857886f89fd63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\2adda65fea58746692da04c27376233f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\2adda65fea58746692da04c27376233f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\148400fe0e8013822d41f2c41073e211\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\148400fe0e8013822d41f2c41073e211\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\70a71db269239b4e6bcc537540f72545\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\70a71db269239b4e6bcc537540f72545\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\cab2c4f6c53ecb9d2632c8e569f7c44e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\cab2c4f6c53ecb9d2632c8e569f7c44e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\38fe1189cb7f668b6384e902f51f80d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\38fe1189cb7f668b6384e902f51f80d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\25595b697ed2e628334c3cd114026be3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DAIPHONG PC\.gradle\caches\transforms-2\files-2.1\25595b697ed2e628334c3cd114026be3\AndroidManifest.xml:20:5-44
+INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+		ADDED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CodeThue\SEO3-Group10-drink_water\SEO3-Group10-drink_water\app\src\main\AndroidManifest.xml

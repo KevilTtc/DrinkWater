@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SEO3-Group10-drink_water.iml" filepath="$PROJECT_DIR$/SEO3-Group10-drink_water.iml" group="SEO3-Group10-drink_water" />
+      <module fileurl="file://$PROJECT_DIR$/alobar-preference/alobar-preference.iml" filepath="$PROJECT_DIR$/alobar-preference/alobar-preference.iml" group="SEO3-Group10-drink_water/alobar-preference" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SEO3-Group10-drink_water/app" />
+    </modules>
+  </component>
+</project>
